@@ -17,12 +17,12 @@ div {
   background-color: #eee;
 }
 
-div.blue {
+.blue {
   background-color: blue;
 }
 
-div.red {
-  background-color: red;
+.green {
+  background-color: green;
 }
 
 .invisible {

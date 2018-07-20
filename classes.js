@@ -25,7 +25,7 @@ function two () {
   var two = document.getElementById('two')
 
   // Next, we apply a new CSS class to it:
-  one.classList.add('red')
+  one.classList.toggle ('green')
 }
 
 // CREATE FUNCTION three HERE
