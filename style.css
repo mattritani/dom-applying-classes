@@ -9,20 +9,24 @@ body {
 }
 
 div {
-  width: 100px;
+  width: 200px;
   height: 100px;
-  border: 1px #ccc dotted;
+  border: 3px #ccc dotted;
   margin: 10px;
   border-radius: 50%;
   background-color: #eee;
 }
 
-.blue {
+div.blue {
   background-color: blue;
 }
 
-.green {
+div.green {
   background-color: green;
+}
+
+div.pink {
+  background-color: pink;
 }
 
 .invisible {
