@@ -11,9 +11,9 @@ body {
 div {
   width: 200px;
   height: 100px;
-  border: 3px #ccc dotted;
+  border: 3px #ccc dashed;
   margin: 10px;
-  border-radius: 50%;
+  border-radius: 45%;
   background-color: #eee;
 }
 
@@ -37,5 +37,5 @@ div.pink {
   display: block;
   border: 3px black dashed;
   border-radius: 0;
-  background-color: white;
+  background-color: #95c3a6;
 }
